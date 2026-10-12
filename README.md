@@ -1,4 +1,4 @@
-# iphone-pull
+# afc-fastcopy
 
 Copy photos and videos from an iPhone to a folder on your computer over USB, with a progress bar. Works on Windows, macOS and Linux.
 
